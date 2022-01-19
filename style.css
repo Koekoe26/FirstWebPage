@@ -1,0 +1,43 @@
+body{
+    background-color: coral;
+}
+span{
+    font-size: 10px;
+    color: red;
+}
+h1 span{
+    font-size: 50px;
+    color: greenyellow;
+}
+.big{
+    font-size: 50px;
+    color: blue;
+}
+.small{
+    font-size: 30px;
+    color: cyan;
+}
+.middle{
+    font-size: 40px;
+    color: orange;
+}
+.upper{
+    font-size: 20px;
+    color: darkblue;
+}
+.lower{
+    font-size: 20px;
+    color: darkcyan;
+}
+.medium{
+    font-size: 20px;
+    color: darkred;
+}
+p{
+    font-size: 30px;
+    color: white;
+}
+p span{
+    font-size: 40px;
+    color: black;
+}
